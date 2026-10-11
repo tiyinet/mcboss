@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+  </MASTER_PAD_VERSION_INFO>
+  <COMPANY_INFO>
+    <COMPANY_NAME>MengChong Paradise Team</COMPANY_NAME>
+    <COMPANY_ADDRESS>No.1 Software Avenue</COMPANY_ADDRESS>
+    <COMPANY_CITY>Chengdu</COMPANY_CITY>
+    <COMPANY_STATE>Sichuan</COMPANY_STATE>
+    <COMPANY_ZIP>610000</COMPANY_ZIP>
+    <COMPANY_COUNTRY>China</COMPANY_COUNTRY>
+    <COMPANY_CONTACT_NAME>tiyinet</COMPANY_CONTACT_NAME>
+    <COMPANY_EMAIL>6633244@qq.com</COMPANY_EMAIL>
+    <COMPANY_WEB_SITE_URL>https://www.mcleyuan.com/</COMPANY_WEB_SITE_URL>
+    <COMPANY_FAX></COMPANY_FAX>
+    <COMPANY_PHONE>19938174091</COMPANY_PHONE>
+  </COMPANY_INFO>
+  <PROGRAM_INFO>
+    <PROGRAM_NAME>MengChong Boss</PROGRAM_NAME>
+    <PROGRAM_VERSION>1.0</PROGRAM_VERSION>
+    <PROGRAM_RELEASE_DATE>2026-10-09</PROGRAM_RELEASE_DATE>
+    <PROGRAM_RELEASE_STATUS>New Release</PROGRAM_RELEASE_STATUS>
+    <PROGRAM_TYPE>Freeware</PROGRAM_TYPE>
+    <PROGRAM_COST_USD>0</PROGRAM_COST_USD>
+    <PROGRAM_DESCRIPTIVE_URL>https://www.mcleyuan.com/</PROGRAM_DESCRIPTIVE_URL>
+    <PROGRAM_INFO_URL>https://github.com/tiyinet/mcboss</PROGRAM_INFO_URL>
+    <PROGRAM_CHANGE_INFO_URL></PROGRAM_CHANGE_INFO_URL>
+    <PROGRAM_CATEGORY>Business &amp; Productivity</PROGRAM_CATEGORY>
+    <PROGRAM_FILE_SIZE>78 MB</PROGRAM_FILE_SIZE>
+    <PROGRAM_FILE_SIZE_K>78000</PROGRAM_FILE_SIZE_K>
+    <PROGRAM_EXE_FILE>MengChongBoss-Setup-1.0.exe</PROGRAM_EXE_FILE>
+    <PROGRAM_SKU></PROGRAM_SKU>
+    <PROGRAM_LANGUAGE>Chinese Simplified, English</PROGRAM_LANGUAGE>
+    <PROGRAM_OS_SUPPORT>Win10, Win11</PROGRAM_OS_SUPPORT>
+    <PROGRAM_OS_WIN10>Y</PROGRAM_OS_WIN10>
+    <PROGRAM_OS_WIN11>Y</PROGRAM_OS_WIN11>
+    <PROGRAM_REQUIREMENTS>Windows 10/11 64-bit, 2GB RAM, internet required</PROGRAM_REQUIREMENTS>
+    <PROGRAM_HOMEPAGE_URL>https://www.mcleyuan.com/</PROGRAM_HOMEPAGE_URL>
+    <PROGRAM_URL>https://github.com/tiyinet/mcboss/releases/latest/download/MengChongBoss-Setup.zip</PROGRAM_URL>
+    <PROGRAM_ICON_URL></PROGRAM_ICON_URL>
+  </PROGRAM_INFO>
+  <DESCRIPTIVE_INFO>
+    <KEYWORDS>pet store management system, pet shop software, pet store POS, pet store membership, pet boarding software, pet grooming booking, pet store inventory, pet clinic software</KEYWORDS>
+    <SHORT_DESCRIPTION>MengChong Boss is an all-in-one digital operation system for pet stores. Smart POS, membership marketing, inventory with expiry alerts, grooming appointments, boarding management, business reports, online mall and pet profiles - eight modules in one. Windows client, web and mobile share one data source. Free version ready for business.</SHORT_DESCRIPTION>
+    <LONG_DESCRIPTION>MengChong Boss is an all-in-one digital operation system built for pet stores, covering the full "service + retail + stored value + timing" business model. Eight core modules: smart POS supports product+service mixed billing, barcode scan, member recognition, discounts, hold/unhold orders and e-receipts; membership marketing supports stored value, points, course cards, benefit cards, member levels and tags with birthday &amp; grooming cycle auto reminders; inventory supports batch, expiry FEFO (first-expire-first-out) and near-expiry/stock-out alerts; appointment supports online grooming booking, slot capacity control and auto reminders; boarding supports room registration, feeding check-in, photo daily report and pickup sign-off; business reports provide revenue, profit, sales, member, staff and chain multi-dimension analysis; online mall syncs with store inventory for in-store pickup and same-city delivery; pet profiles keep breed, vaccine, deworming and grooming records. Three-end sync: Windows client, web and mobile share one account and one set of data. Free version ready for business; paid version unlocks full boarding workflow, expiry alerts, marketing growth tools, staff performance and AI weekly report - no bundling, data exportable anytime.</LONG_DESCRIPTION>
+    <SLOGAN>Run your pet store on one system</SLOGAN>
+  </DESCRIPTIVE_INFO>
+</XML_DIZ_INFO>
